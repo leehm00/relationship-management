@@ -1,0 +1,98 @@
+[
+  {
+    "name": "导师王教授",
+    "tier": "S",
+    "tags": [
+      "实验室"
+    ],
+    "last_contact_date": "2026-03-01",
+    "dynamic_multiplier": 1.0,
+    "notes": [
+      "学期初见面讨论研究方向"
+    ],
+    "location": "本地",
+    "contact_types": [
+      "线上",
+      "线下"
+    ],
+    "topics": [],
+    "interests": []
+  },
+  {
+    "name": "张三",
+    "tier": "A",
+    "tags": [
+      "实验室",
+      "向上社交"
+    ],
+    "last_contact_date": "2026-03-22",
+    "dynamic_multiplier": 1.0,
+    "notes": [
+      "约了咖啡聊实习经验"
+    ],
+    "location": "本地",
+    "contact_types": [
+      "线上",
+      "线下"
+    ],
+    "topics": [],
+    "interests": []
+  },
+  {
+    "name": "李四",
+    "tier": "B",
+    "tags": [
+      "同学"
+    ],
+    "last_contact_date": "2026-03-15",
+    "dynamic_multiplier": 1.0,
+    "notes": [
+      "一起复习了操作系统"
+    ],
+    "location": "本地",
+    "contact_types": [
+      "线上",
+      "线下"
+    ],
+    "topics": [],
+    "interests": []
+  },
+  {
+    "name": "王五",
+    "tier": "C",
+    "tags": [
+      "向上社交"
+    ],
+    "last_contact_date": "2026-03-01",
+    "dynamic_multiplier": 1.0,
+    "notes": [
+      "行业分享会上交流"
+    ],
+    "location": "本地",
+    "contact_types": [
+      "线上",
+      "线下"
+    ],
+    "topics": [],
+    "interests": []
+  },
+  {
+    "name": "赵六",
+    "tier": "D",
+    "tags": [
+      "老朋友"
+    ],
+    "last_contact_date": "2026-02-01",
+    "dynamic_multiplier": 1.0,
+    "notes": [
+      "过年回家见了一面"
+    ],
+    "location": "本地",
+    "contact_types": [
+      "线上",
+      "线下"
+    ],
+    "topics": [],
+    "interests": []
+  }
+]
