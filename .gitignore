@@ -1,0 +1,4 @@
+*.json
+.claude/
+__pycache__/
+pycache/
